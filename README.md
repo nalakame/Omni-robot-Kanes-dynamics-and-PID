@@ -13,7 +13,7 @@ The full dynamic model of the robot was developed using Kane's equations includi
 A PID controller was developed for 
 <img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/6c8c41cf-075b-408f-83d0-88c28da786d2" width=300 height=300>
 
-<img src= "(https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/e3a46566-6884-4c32-8d76-3b09ab5f4459" width=300 height=300>
+<img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/e3a46566-6884-4c32-8d76-3b09ab5f4459" width=300 height=300>
 
 The published Journal paper on this work can be cited using:
 Amarasiri, N., Barhorst, A. A., and Gottumukkala, R. (October 19, 2022). "Robust Dynamic Modeling and Trajectory Tracking Controller of a Universal Omni-Wheeled Mobile Robot." ASME. Letters Dyn. Sys. Control. October 2022; 2(4): 040902. https://doi.org/10.1115/1.4055690
