@@ -7,7 +7,7 @@ Amarasiri, N., Barhorst, A. A., and Gottumukkala, R. (October 19, 2022). "Robust
 
 Also, the preprint of the paper can be found: https://www.researchgate.net/profile/Nalaka-Amarasiri
 
-<img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/77160d49-5951-4f2d-9072-bf18c7e7fb6a" width=300 height=300> <img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/bc5f8ec7-c581-4bf7-be9c-82b2d472f45a" width=300 height=300>
+<img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/77160d49-5951-4f2d-9072-bf18c7e7fb6a" "title-1" width=300 height=300> <img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/bc5f8ec7-c581-4bf7-be9c-82b2d472f45a" width=300 height=300>
 
 <img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/daded0bb-a104-44f5-889e-a14609866055" width=300 height=300> <img src= "https://github.com/nalakame/Omni_robot_dynamics_PID/assets/106627981/6c8c41cf-075b-408f-83d0-88c28da786d2" width=300 height=300>
 
