@@ -1,4 +1,4 @@
-# Omni_robot_Kanes_dynamics_PID
+# Omni robot Kanes dynamics & PID
 This Mathematica notebook provides development of a Forward Kinematic model(FKM), Inverse Kinematic Model(IKM), and Dynamic model using Kane's method of a Universal Omni Wheeled mobile robot. Also, a PID trajectory tracking controller was developed to track different trajectories with very small error. The following GIF animations show the behaviour of the robot for a given combiniation of global x, y, and z velocities. The FKM was tested for possible combinations of inputs and demonstrated the expected outputs. IKM was develped and tested for different combinations of wheel velocities. The full dynamic model of the robot was developed using Kane's equations including rollers. A PID controller was developed for smooth path and a path with sharp edges. 
 
 The published Journal paper on this work can be cited using:
